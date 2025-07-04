@@ -1,4 +1,3 @@
-# Write code below 💖
 # This is a letter to my future self 📨
 
 print("📅 Today's Date: July 2, 2025")
